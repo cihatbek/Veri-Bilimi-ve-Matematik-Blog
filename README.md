@@ -1,7 +1,4 @@
-# Veri-Bilimine-Giris-Blog
-
-## Veri Biliminde Matematik
-
+# Veri Biliminde Matematik
 Matematik, veri biliminde tartışmasız çok önemli bir yere sahiptir.
 Veri biliminde matematiğin şu dört kavramı çok önemlidir;  olasılık-istatistik, kalkülüs ve doğrusal cebir. Bu yazıda bu kavramların veri bilimi için ne ifade ettiğine bakacağız.
 
