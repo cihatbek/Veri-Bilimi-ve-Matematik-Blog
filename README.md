@@ -5,7 +5,7 @@ Veri biliminde matematiğin şu dört kavramı çok önemlidir;  olasılık-ista
 
 ## Lineer Cebir
 
-Çeşitli problemlerle başa çıkmada çok hızlı bir hesaplama hızına sahiptir. En son teknolojilerde kullanılan çeşitli algoritma türlerinin arkasındaki arka planı anlamaya yardımcı olur. Karar vermede bize yardımcı olur ve çoğunlukla matrisler ve vektörlerle ilgilenir. Python dilinde bir Numpy kütüphanesi ile erişilebilir.
+Çeşitli problemlerle başa çıkmada çok hızlı bir hesaplama hızına sahiptir. En son teknolojilerde kullanılan çeşitli algoritma türlerinin arkasındaki arka planı anlamaya yardımcı olur. Karar vermede bize yardımcı olur ve çoğunlukla matrisler ve vektörlerle ilgilenir. Python dilinde Numpy kütüphanesi ile erişilebilir.
 
 
 
